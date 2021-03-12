@@ -1,10 +1,10 @@
 ---
-description: Projeto desenvolvido da Semana CloudOps pela Treina Cloud.
+description: >-
+  Projeto desenvolvido sobre o sistema financeiro chamado Nufinance, cursp
+  ministrado pela Treina Cloud em 03/2021.
 ---
 
-# Detalhes do Projeto
-
-Bootcamp realizado nos dias 01, 02, 03 e 04 de Março de 2021 na qual consistia em subir uma aplicação em alta disponibilidade, na qual a principal função é que os colaboradores possam conversar através de um mensageiro e disponibilizar arquivos com máximo de segurança.
+# DETALHES DO PROJETO
 
 **Ferramentas usadas:**
 

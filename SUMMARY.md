@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Detalhes do Projeto](README.md)
+* [DETALHES DO PROJETO](README.md)
 * [INTRODUÇÃO](introducao.md)
 * [AULA 01](aula-01.md)
 * [AULA 02](aula-02.md)
