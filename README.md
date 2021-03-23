@@ -1,7 +1,7 @@
 ---
 description: >-
-  Projeto desenvolvido sobre o sistema financeiro chamado Nufinance, cursp
-  ministrado pela Treina Cloud em 03/2021.
+  Projeto desenvolvido sobre o sistema de rede social, curso ministrado pela
+  Treina Cloud em 03/2021.
 ---
 
 # DETALHES DO PROJETO
